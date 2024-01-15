@@ -4,7 +4,7 @@ public class Profesor extends Persona{
 
     private Double salario;
     private String especialidad;
-    //array alumnos?
+   
 
     public Profesor(String nombre, String dni) {
         super(nombre, dni);
